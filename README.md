@@ -38,7 +38,6 @@
 
 <br>
 
-
 <img src="https://raw.githubusercontent.com/Rafaelvrau777/Rafaelvrau777/output/snake.svg" alt="Snake animation" />
 
 
