@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQ0NWx4aGVkN2tqemVqeWh1a3QzdmZzcG8wc3V4MDF3MG5kbXZ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XbZ1FZ4xtzDKE/giphy.gif"  />
 
 ###
 
@@ -41,5 +41,9 @@
 ###
 
 <picture>
-  <img alt="pacman contribution graph" src="https://art.pixilart.com/c4ec72c5f32b864.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafaelvrau777/Rafaelvrau777/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafaelvrau777/Rafaelvrau777/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rafaelvrau777/Rafaelvrau777/output/pacman-contribution-graph.svg">
 </picture>
+
+###
