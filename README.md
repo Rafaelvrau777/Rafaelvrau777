@@ -26,6 +26,5 @@
 <img width="15" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rafaelvrau777/Rafaelvrau777/output/github-snake.svg" alt="Snake animation" />
-</div>
+![snake gif](https://raw.githubusercontent.com/Rafaelvrau777/Rafaelvrau777/output/dist/snake.gif)
+
